@@ -1,4 +1,5 @@
-This is a Ruby on rails app made for Brutal Age game, where fans can
-go and post just anything about the game.
+This is a Ruby on rails app made for an ecommerce project. Will try to produce a very simple interface
+and straightforward process with Filipino customers in mind as the target audience.
 
-This will also contain helpful how to's in the game and several strategy guide.
+Will try to add functionality one by one but for starters it will be a simple CRUD operation for the admin
+and a registration for the users.
