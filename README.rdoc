@@ -3,3 +3,5 @@ and straightforward process with Filipino customers in mind as the target audien
 
 Will try to add functionality one by one but for starters it will be a simple CRUD operation for the admin
 and a registration for the users.
+
+The goal of the estore is to provide multi access to users who wishes to sell anything on the website and will have their own control panel and admin access. This will give each of them a virtual store where they can manage their products and services for free. 
